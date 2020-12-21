@@ -1,0 +1,283 @@
+header{
+	background-color: #212529!important;
+}
+
+nav ul li a{
+	color: white;
+	font-size: 14px;
+	font-family:sans-serif; 
+	padding: 0 10px;
+}
+
+.dropdown-menu{
+
+	background-color: #212529!important;
+}
+
+.dropdown-menu a{
+	color: white;
+}
+
+.navbar {
+	padding: 15px 8px;
+	
+}
+
+.carousel-caption h1{
+	margin-bottom: 20px;
+	
+}
+.carousel-caption p{
+	margin-bottom: 30px;
+}
+
+.carousel-caption h1{ font-size: 35px; }
+.buttonread{
+	margin-bottom: 200px;
+
+}
+.btn {
+			border-radius: 100px;	
+			background-color: rgb(40 171 227);
+	
+}
+
+.btn:hover{
+	background-color:#FF236B 
+	
+}
+
+.titel{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	overflow: hidden;
+}
+
+.title p {
+    color: #848484;
+    width: 50%;
+    margin: 0 auto;
+}
+	.text-center{
+		text-align: center!important;
+	}
+
+.border{
+	border:2px solid #dee2e6!important;
+	width: 80px;
+	margin: 20px auto;
+}
+
+.service-item{
+	border: 1px solid #eee;
+	margin-bottom: 30px;
+	padding: 50px 20px;
+}
+.service-item:hover{
+	box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
+}
+.service-item i{
+	background-color: rgb(40 171 227);
+	font-size: 20px;
+	color: white;
+	border-radius: 40px;
+	padding: 18px 20px;
+	margin-bottom: 10px;
+}
+.service-item i:hover{
+	background-color:white; 
+	color: rgb(40 171 227);
+	box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
+
+}
+
+.about-2 ul li{
+		list-style: none;
+		padding: 10px 0;
+	 	text-align: justify;
+	 	position: relative;
+}
+.about-2 ul li i{
+	padding-right: 20px;
+}
+
+
+
+.call-to-action-section{
+	width: 100%!important;
+	height: 450px;
+	padding:100px 0;
+	background-image: url(images/call-to-action-bg-2.jpg ); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #fff;
+}
+.counters-item{
+    padding-bottom: 30px;
+    color: #444;
+    position: relative;
+}
+
+.counters-item i{
+	font-size: 40px;
+	color: rgb(40 171 227);
+	
+}
+
+
+.Number span{
+	font-size:  30px;
+	font: bold;
+	margin: 40px 0;
+}
+
+.counters-item h5{
+	border-bottom: 100px; 
+}
+
+
+
+
+.Number{
+	padding-bottom: 20px;
+}    
+
+.carousel-item i{
+		font-size: 60px;
+		color: white;
+		
+}
+.ptag{
+	color: white;
+	width: 50%;
+	margin: 40px auto;
+	font: bold;
+
+}
+
+
+
+.testimonial{    
+	padding-top: 80px ;
+    background: #28ABE3;
+    position: relative;
+    margin: 50px 0;
+}
+
+.testimonial:before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    bottom: 0;
+    height: 150px;
+    background-color: white;
+}
+
+.rounded-circle img{
+
+	 max-width: 100%;
+     height: auto;
+}
+
+.title  p{
+	padding: 30px 0;
+}
+
+.post-item {
+    background: #fff;
+    margin-bottom: 20px;
+    
+}
+
+
+}
+
+.img-fluid {
+    max-width: 80%;
+    height: auto;
+}
+
+.content h3{
+	 padding: 10px 0;
+}
+.content p{
+	text-align:justify;
+	font-size: 15px;
+	 max-width: 80%;
+    height: auto;
+}
+
+.top-footer-section{
+	background-color: #222222;
+}
+
+.top-footer{
+	padding: 40px 0;
+}
+.top-footer h3 {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    }
+
+    .top-footer p {
+    font-size: 13px;
+    line-height: 30px;
+    color: #bdbdbd;
+    font-weight: 300;
+    letter-spacing: 1px;
+    padding-right: 20px;
+}
+
+.top-footer ul  {
+    font-size: 13px;
+    line-height: 30px;
+    color: #bdbdbd;
+    font-weight: 300;
+    letter-spacing: 1px;
+    padding-right: 20px;
+    list-style: none;
+}
+
+.top-footer ul li a{
+	text-decoration: none;
+	color: #bdbdbd;
+}
+
+.top-footer ul li a:hover{
+	color:  #28ABE3;
+}
+
+.footer-bottom {
+	background-color:#1B1B1B;
+	padding:30px 0; }
+.row h5 {
+    font-size: 12px;
+    line-height: 1;
+    color: #888888;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 7px;
+    margin-bottom: 3px;
+}
+
+.row h6 {
+    font-size: 11px;
+    line-height: 15px;
+    color: #888888;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+
+    }
+
+    .row h6 a{
+    	text-decoration: none;
+    }
